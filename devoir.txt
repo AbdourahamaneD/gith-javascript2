@@ -1,0 +1,20 @@
+devoir:
+1-creer un compte github ☑️
+
+2-Deployer le cours-2 sur github.
+
+
+3-Accedez à la page.
+
+
+
+
+
+Pratique:
+ 1-creer dans le dossier: js le fichier script3.js
+
+ 2-lier script3.js a page.html.
+
+
+ 3-creer une fonction pour dire "bonjour monsieur" 20 fois avec la boucle "for"
+ et bonjour doit etre numerotisé
